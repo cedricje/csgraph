@@ -1,1 +1,1 @@
-# csgraph
+# csgraphGenerates callgraphs from a cscope database. Either full graph, callers or callees for a list of functions.
